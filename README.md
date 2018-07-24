@@ -11,7 +11,7 @@ This is an index for astro tools developed by a group of amateur astronomers. We
 | intellegent shutter | 一思佛 | ... | ... |
 | intellegent shutter | KenLuozhenyu | ... | ... |
 | auto focusing (TODO) | ... | Auto focusing during an eclipse. | ... |
-| eclipse corona enhancer (TODO) | ... | Merge eclipse images taken with different exposures and enhance details of corona | ... |
+| eclipse corona enhancer (TODO) | ... | Merge eclipse images taken with different exposures and enhance details of corona. Like [this](https://hdr-astrophotography.com/?from=singlemessage&isappinstalled=0) | ... |
 
 ## Our member developers
 * [LoveDaisy (章佳杰)](https://github.com/LoveDaisy)
